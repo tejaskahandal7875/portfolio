@@ -18,7 +18,7 @@ $(document).ready(function(){
 
 
     let typed = new Typed(".typing-1",{
-       strings : ["Developer..", "Designer..", "Student..", "UI/UX Developer"],
+       strings : ["Developer..", "Student..", "UI/UX Developer"],
        typeSpeed : 100,
        backSpeed : 60,
        loop : true,
@@ -26,7 +26,7 @@ $(document).ready(function(){
 
 
     let typed2 = new Typed(".typing-2",{
-      strings : ["Developer", "Designer", "Student", "UI/UX Developer"],
+      strings : ["Developer", "Student", "UI/UX Developer"],
       typeSpeed : 100,
       backSpeed : 60,
       loop : true,
