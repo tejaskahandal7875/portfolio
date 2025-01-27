@@ -18,7 +18,7 @@ $(document).ready(function(){
 
 
     let typed = new Typed(".typing-1",{
-       strings : ["FrontEnd Developer..", "React Developer..", "UI/UX Developer..", "SQL Developer..", "Web Developer..", "Web Designer.."],
+       strings : ["FrontEnd Developer..", "React Developer..", "UI/UX Developer..", "SQL Developer..", "Web Developer..", "Web Designer.."], 
        typeSpeed : 100,
        backSpeed : 60,
        loop : true,
